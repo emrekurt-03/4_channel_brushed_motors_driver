@@ -1,0 +1,16 @@
+# STM32CubeIDE Build Klasörleri
+Debug/
+Release/
+
+# Geçici Derleme Dosyaları
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+
+# İşletim Sistemi Kalıntıları
+.DS_Store
+Thumbs.db
